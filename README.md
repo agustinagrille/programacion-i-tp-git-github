@@ -7,8 +7,6 @@ Trabajo práctico para la materia de programación I - UTN
 - [Autor/a: Agustina Grille](https://github.com/agustinagrille) 
 - [LinkedIn haciendo click acá!](https://www.linkedin.com/in/agustina-a-grille-81929a146/)
 
----
-
 ## 📖 Cuestionario
 
 - **¿Qué es GitHub?**  
